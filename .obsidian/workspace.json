@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "33a07787a92664f4",
+        "id": "e30196c0c7af7475",
         "type": "tabs",
         "children": [
           {
-            "id": "9aa600a5869e2f77",
+            "id": "362b180876fabb20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/1.Basics.md",
+                "file": "AWS/Session -1 Introduction/Expectation's.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/1.Basics.md",
+                "file": "AWS/Session -1 Introduction/Expectation's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/1.Basics.md",
+                "file": "AWS/Session -1 Introduction/Expectation's.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/1.Basics.md"
+                "file": "AWS/Session -1 Introduction/Expectation's.md"
               }
             }
           }
@@ -146,13 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9aa600a5869e2f77",
+  "active": "362b180876fabb20",
   "lastOpenFiles": [
-    "2024-02-18.md",
     "AWS/1.Basics.md",
-    "AWS",
+    "AWS/Session -1 Introduction/Expectation's.md",
+    "AWS/Session -1 Introduction/1.Session-1 Introduction.md",
+    "AWS/Session -1 Introduction/1.Basiscs.md",
+    "AWS/Session -1 Introduction",
+    "AWS/Session -1 Introduction/2.Why we use.md",
+    "2024-02-18.md",
+    "The AWS should be.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
+    "AWS",
     "Untitled 2.canvas",
     "AWS Could.canvas",
     "Basics.md"
