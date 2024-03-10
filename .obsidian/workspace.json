@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Session -1 Introduction/Expectation's.md",
+                "file": "AWS/AWS Basics/3. Session-3 DNS (Doman Name Server).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Session -1 Introduction/Expectation's.md",
+                "file": "AWS/AWS Basics/3. Session-3 DNS (Doman Name Server).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/Session -1 Introduction/Expectation's.md",
+                "file": "AWS/AWS Basics/3. Session-3 DNS (Doman Name Server).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/Session -1 Introduction/Expectation's.md"
+                "file": "AWS/AWS Basics/3. Session-3 DNS (Doman Name Server).md"
               }
             }
           }
@@ -146,13 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "362b180876fabb20",
+  "active": "857b6e7293dc3c95",
   "lastOpenFiles": [
+    "Pasted image 20240310171904.png",
+    "Pasted image 20240310170804.png",
+    "DNS,RNS,SOA.png",
+    "AWS/AWS Basics/2.Session-2 Client Server Architecture.md",
+    "AWS/AWS Basics/3. Session-3 DNS (Doman Name Server).md",
+    "Three Layer Architecture.png",
+    "Two Layer Architecture.png",
+    "AWS/AWS Basics/1.Session-1 Introduction.md",
+    "AWS/AWS Basics/Expectation's.md",
     "AWS/1.Basics.md",
-    "AWS/Session -1 Introduction/Expectation's.md",
-    "AWS/Session -1 Introduction/1.Session-1 Introduction.md",
     "AWS/Session -1 Introduction/1.Basiscs.md",
-    "AWS/Session -1 Introduction",
+    "AWS/AWS Basics",
     "AWS/Session -1 Introduction/2.Why we use.md",
     "2024-02-18.md",
     "The AWS should be.md",
