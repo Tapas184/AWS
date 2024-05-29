@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/AWS Basics/4.Service Models.md",
+                "file": "AWS/AWS Basics/10.S3- Simple Storage Service.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/AWS Basics/4.Service Models.md",
+                "file": "AWS/AWS Basics/10.S3- Simple Storage Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/AWS Basics/4.Service Models.md",
+                "file": "AWS/AWS Basics/10.S3- Simple Storage Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/AWS Basics/4.Service Models.md"
+                "file": "AWS/AWS Basics/10.S3- Simple Storage Service.md"
               }
             }
           }
@@ -148,9 +148,19 @@
   },
   "active": "362b180876fabb20",
   "lastOpenFiles": [
+    "Pasted image 20240529221555.png",
+    "Pasted image 20240529213803.png",
+    "AWS/AWS Basics/9. Session . Over view of the Service.md",
+    "AWS/AWS Basics/10.S3- Simple Storage Service.md",
+    "AWS/AWS Basics/8. Session ,.md",
+    "AWS/AWS Basics/7.  Elasticity.md",
+    "Elasticity.png",
+    "AWS Architecture.png",
+    "AWS/AWS Basics/5. AWS Management Console.md",
+    "Pasted image 20240407122905.png",
+    "AWS/AWS Basics/4.Service Models.md",
     "Pasted image 20240330192014.png",
     "AWS/AWS Basics/1.Session-1 Introduction.md",
-    "AWS/AWS Basics/4.Service Models.md",
     "AWS/AWS Basics/Expectation's.md",
     "AWS/AWS Basics/3. Session-3 DNS (Doman Name Server).md",
     "Pasted image 20240310171904.png",
