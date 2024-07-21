@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/AWS Basics/10.S3- Simple Storage Service.md",
+                "file": "AWS/AWS Basics/20. EC2 Service (Elastic Compute Cloud).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/AWS Basics/10.S3- Simple Storage Service.md",
+                "file": "AWS/AWS Basics/20. EC2 Service (Elastic Compute Cloud).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/AWS Basics/10.S3- Simple Storage Service.md",
+                "file": "AWS/AWS Basics/20. EC2 Service (Elastic Compute Cloud).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/AWS Basics/10.S3- Simple Storage Service.md"
+                "file": "AWS/AWS Basics/20. EC2 Service (Elastic Compute Cloud).md"
               }
             }
           }
@@ -148,27 +148,35 @@
   },
   "active": "362b180876fabb20",
   "lastOpenFiles": [
+    "AWS/AWS Basics/19.IAM Policies.md",
+    "AWS/AWS Basics/20. EC2 Service (Elastic Compute Cloud).md",
+    "AWS/AWS Basics/18. IAM User.md",
+    "AWS/AWS Basics/17.IAM (Tags).md",
+    "AWS/AWS Basics/16.IAM GROUP , Policy.md",
+    "AWS/AWS Basics/15. IAM -(Identity And Access Management).md",
+    "IAM User.png",
+    "AWS/AWS Basics/13.IAM (Identity and Access Management).md",
+    "Pasted image 20240530223654.png",
+    "AWS/AWS Basics/Expectation's.md",
+    "AWS/AWS Basics/3. Session-3 DNS (Doman Name Server).md",
+    "AWS/AWS Basics/2.Session-2 Client Server Architecture.md",
+    "AWS/AWS Basics/1.Session-1 Introduction.md",
+    "AWS/AWS Basics/12. Route 53(Global).md",
+    "Pasted image 20240603231147.png",
+    "Pasted image 20240603231127.png",
+    "AWS/AWS Basics/11.EFS-Elastic File System.md",
+    "Pasted image 20240530223737.png",
+    "Pasted image 20240530221147.png",
+    "AWS/AWS Basics/10.S3- Simple Storage Service.md",
     "Pasted image 20240529221555.png",
     "Pasted image 20240529213803.png",
     "AWS/AWS Basics/9. Session . Over view of the Service.md",
-    "AWS/AWS Basics/10.S3- Simple Storage Service.md",
     "AWS/AWS Basics/8. Session ,.md",
     "AWS/AWS Basics/7.  Elasticity.md",
     "Elasticity.png",
     "AWS Architecture.png",
     "AWS/AWS Basics/5. AWS Management Console.md",
-    "Pasted image 20240407122905.png",
     "AWS/AWS Basics/4.Service Models.md",
-    "Pasted image 20240330192014.png",
-    "AWS/AWS Basics/1.Session-1 Introduction.md",
-    "AWS/AWS Basics/Expectation's.md",
-    "AWS/AWS Basics/3. Session-3 DNS (Doman Name Server).md",
-    "Pasted image 20240310171904.png",
-    "Pasted image 20240310170804.png",
-    "DNS,RNS,SOA.png",
-    "AWS/AWS Basics/2.Session-2 Client Server Architecture.md",
-    "Three Layer Architecture.png",
-    "Two Layer Architecture.png",
     "AWS/1.Basics.md",
     "AWS/Session -1 Introduction/1.Basiscs.md",
     "AWS/AWS Basics",
